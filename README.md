@@ -54,7 +54,7 @@ Your web browser should automatically open with the application running.
 
 This project was inspired by the idea of Story-Pot, a creative tool for generating stories. I saw the concept in a blog post and wanted to build my own version to learn more about AI and Streamlit.
 
-You can check out the original inspiration here: **[Link to the blog post or Story-Pot website]**
+You can check out the original inspiration here: https://app.thestorypot.com/
 
 ## 🖼️ Screenshot
 
