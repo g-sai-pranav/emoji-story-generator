@@ -58,5 +58,5 @@ You can check out the original inspiration here: https://app.thestorypot.com/
 
 ## 🖼️ Screenshot
 
-![Screenshot of the Emoji Story Generator app](https://i.imgur.com/your-screenshot-url.png)
-*Replace this with a URL to a screenshot of your finished app.*
+<img width="617" height="747" alt="image" src="https://github.com/user-attachments/assets/9ef14ddd-e5b9-4e8c-88d1-9f52825828ba" />
+
